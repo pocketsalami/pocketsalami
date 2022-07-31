@@ -50,7 +50,7 @@ social-network-links:
   email: "thepocketsalami@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: pocketsalami
-  github: pocketsalami
+# github: pocketsalami
   twitter: pocketsalami
   patreon: pocketsalami
 #  youtube: c/thepocketsalami
